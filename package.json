@@ -1,0 +1,15 @@
+{
+  "name": "PURPSbot",
+  "version": "0.3.0",
+  "description": "Dice-rolling bot for PURPS",
+  "main": "bot.js",
+  "author": "J Ghoulia",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}
